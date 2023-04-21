@@ -34,3 +34,8 @@ React.createElement has 3 arguments:
 ReactDOM.createRoot(document.getElementById("root")).render(variable_to_render)
 
 ReactDOM --- Virtual DOM
+Virtual DOM (VDOM)
+
+JSX 
+	- Javascript XML
+	- Syntactic Sugar
