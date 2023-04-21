@@ -36,6 +36,12 @@ ReactDOM.createRoot(document.getElementById("root")).render(variable_to_render)
 ReactDOM --- Virtual DOM
 Virtual DOM (VDOM)
 
-JSX 
+# JSX 
 	- Javascript XML
 	- Syntactic Sugar
+
+# Components
+Components name should always in Caps
+
+Error when not named with Capital Letters:
+The tag <app> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
