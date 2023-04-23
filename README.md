@@ -45,3 +45,11 @@ Components name should always in Caps
 
 Error when not named with Capital Letters:
 The tag <app> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
+
+# JSX
+JSX is a syntax extension for Javascript
+why JSX
+	rendering logic should be coupled with ui logic
+	visual aid when working with ui
+	react seperate concerns instead of seperating technology
+	allows to show more useful errors and warnings
